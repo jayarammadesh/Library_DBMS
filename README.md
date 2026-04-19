@@ -76,16 +76,25 @@ The system reduces manual effort and improves efficiency using automation workfl
 ## 🎥 Project Demo
 
 
-https://github.com/user-attachments/assets/86bbad12-8919-431a-8e73-5858dbb16eea
+
+
+Uploading lib dbms.mp4…
 
 
 
-https://github.com/user-attachments/assets/9d0196fb-e4e6-4689-8291-ae7757a678f8
+https://github.com/user-attachments/assets/c0d2e3e6-a4f0-4ad9-a233-49f837de00f0
 
 
+---
 
+## 💡 Future Enhancements
+- Add GUI dashboard
+- Integrate database (MySQL)
+- Barcode scanning system
+- Web-based library system
 
-### Option 1: Upload video
-Drag and drop your `.mp4` file into README
+---
 
-### Option 2: YouTube
+## 👨‍💻 Author
+**Jayaram Madesh R S
+ Sree Sanjana**
